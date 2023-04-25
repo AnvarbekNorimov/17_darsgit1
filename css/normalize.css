@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Roboto;
+}
+.container{
+    margin: 30px auto;
+    padding: 0 23px;
+    width: 100%;
+    max-width: 1140px;
+}
+.header__nav ul li a{
+    text-decoration: none;
+}
+.header__nav ul li{
+    list-style: none;
+}
+.footer__nav ul a{
+    text-decoration: none;
+}
+.footer__nav ul li{
+    list-style:none;
+}
